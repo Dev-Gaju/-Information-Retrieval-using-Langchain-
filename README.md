@@ -1,1 +1,1 @@
-# -Information-Retrieval-using-Langchain-
+This script implements a question-answering application using document retrieval. It preprocesses documents, creates embeddings with OpenAI, stores them in a Pinecone index, and uses a Streamlit interface for users to input queries, triggering a retrieval QA chain to provide answers
